@@ -1,0 +1,12 @@
+AUTHORS.rst
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+html2pdf/__init__.py
+html2pdf/main.py
+html2pdf/tests.py
+html2pdf.egg-info/PKG-INFO
+html2pdf.egg-info/SOURCES.txt
+html2pdf.egg-info/dependency_links.txt
+html2pdf.egg-info/top_level.txt
